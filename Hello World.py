@@ -1,0 +1,1 @@
+print("Hello world !")#基本输出
